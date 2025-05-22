@@ -65,6 +65,8 @@ h4{
 }
 #menu a:hover{
     color: blue;
+    font-size: 20px;
+    background-color: aqua;
     
 }
 h2{
@@ -91,6 +93,7 @@ footer{
     color: black;
     text-decoration: underline;
     font-size: 20px;
+    background-color: aqua;
 
 }
 p{
